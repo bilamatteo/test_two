@@ -12,3 +12,5 @@ chapter 5
 (the another continue)
 chapter 6
 (end)
+chapter 8
+(endgame)
