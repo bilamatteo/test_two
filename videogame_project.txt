@@ -14,3 +14,5 @@ chapter 6
 (end)
 chapter 7
 (post-credits)
+chapter 8
+(endgame)
