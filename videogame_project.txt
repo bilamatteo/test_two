@@ -16,3 +16,5 @@ chapter 7
 (post-credits)
 chapter 8
 (endgame)
+chapter 9
+(new game+)
